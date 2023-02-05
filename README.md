@@ -7,15 +7,15 @@
 
 <p align="center"> <a href="https://twitter.com/nagendra_s_p" target="blank"><img src="https://img.shields.io/twitter/follow/nagendra_s_p?logo=twitter&style=for-the-badge" alt="nagendra_s_p" /></a> </p>
 
-- 🔭 I’m currently working on a **Weather Forecast Application**
+- 🔭 I’m currently working on **Data Engineering Applications**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Vue JS**
 
-- 👯 I’m looking to collaborate on **Builiding applications that will benefit the Users**
+- 👯 I’m looking to collaborate and **Build applications that will benefit the Users**
 
 - 📝 I regularly write articles on [https://medium.com/@NagendraPatil](https://medium.com/@NagendraPatil)
 
-- 💬 Ask me about **HTML,CSS and Javascript**
+- 💬 Ask me about **ReactJS, Javascript, Typescript, Material libraries, MERN stack and web development**
 
 - 📫 How to reach me **nagendrapatil1749@gmail.com**
 
@@ -46,11 +46,6 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 </p>
-
-<h5>Contribution graph</h5>
-
-[![NagendraPatil's github activity graph](https://activity-graph.herokuapp.com/graph?username=NagendraPatil&theme=react-dark)](https://github.com/NagendraPatil/github-readme-activity-graph)
-
 
 ![NagendraPatil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NagendraPatil&show_icons=true&theme=radical)
 
