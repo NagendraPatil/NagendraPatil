@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nagendrapatil&label=Profile%20views&color=6cb6e5&style=flat-square" alt="nagendrapatil" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NagendraPatil&theme=onedark" alt="nagendrapatil" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NagendraPatil&theme=onedark" alt="nagendrapatil" /></a> </p> -->
 
 <p align="center"> <a href="https://twitter.com/nagendra_s_p" target="blank"><img src="https://img.shields.io/twitter/follow/nagendra_s_p?logo=twitter&style=for-the-badge" alt="nagendra_s_p" /></a> </p>
 
