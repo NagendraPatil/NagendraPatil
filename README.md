@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nagendra Patil</h1>
 <h3 align="center">A Full Stack Web Developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nagendrapatil&label=Profile%20views&color=6cb6e5&style=flat-square" alt="nagendrapatil" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=nagendrapatil&label=Profile%20views&color=6cb6e5&style=flat-square" alt="nagendrapatil" /> </p> -->
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NagendraPatil&theme=onedark" alt="nagendrapatil" /></a> </p> -->
 
